@@ -1,0 +1,6 @@
+pandas
+nltk
+gensim
+transformers
+torch
+streamlit
