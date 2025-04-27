@@ -6,7 +6,7 @@ This project implements an ABSA pipeline for movie reviews using a hybrid approa
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone [<your-repo-url>](https://github.com/RayZ182/ABSA-with-Topic-Modeling-and-BERT)
+   git clone https://github.com/RayZ182/ABSA-with-Topic-Modeling-and-BERT
    cd absa-project
 
 
